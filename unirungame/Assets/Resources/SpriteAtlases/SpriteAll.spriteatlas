@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAll
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ebbd841ce4c26584b813f9fe82e986de, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 986d6b31d3008124482c8f99bb356744, type: 3}
+  - {fileID: 21300000, guid: 74ff1cc2286f46248a135d43fd5ac8a6, type: 3}
+  - {fileID: 122672734, guid: 7c32c3134b35d4e4ab30890e0051ed9f, type: 3}
+  - {fileID: 350596904, guid: 7c32c3134b35d4e4ab30890e0051ed9f, type: 3}
+  - {fileID: -2068909536, guid: 7c32c3134b35d4e4ab30890e0051ed9f, type: 3}
+  - {fileID: -574914543, guid: 7c32c3134b35d4e4ab30890e0051ed9f, type: 3}
+  - {fileID: -1412980958, guid: 7c32c3134b35d4e4ab30890e0051ed9f, type: 3}
+  - {fileID: -1736351869, guid: 7c32c3134b35d4e4ab30890e0051ed9f, type: 3}
+  - {fileID: 1312828010, guid: 0703953413a7c1c4db01a89a8a691307, type: 3}
+  - {fileID: 484285013, guid: 0703953413a7c1c4db01a89a8a691307, type: 3}
+  - {fileID: 1330803248, guid: 0703953413a7c1c4db01a89a8a691307, type: 3}
+  - {fileID: -1343065572, guid: 0703953413a7c1c4db01a89a8a691307, type: 3}
+  - {fileID: -1137153242, guid: 0703953413a7c1c4db01a89a8a691307, type: 3}
+  - {fileID: 1261771462, guid: 0703953413a7c1c4db01a89a8a691307, type: 3}
+  - {fileID: 253346070, guid: 0703953413a7c1c4db01a89a8a691307, type: 3}
+  - {fileID: 1457716919, guid: 0703953413a7c1c4db01a89a8a691307, type: 3}
+  - {fileID: 21300000, guid: 99510848310b840449c7870aedf5d3c6, type: 3}
+  - {fileID: 21300000, guid: 3e1c12acf8c3b874a9e555fe9bcf3bb4, type: 3}
+  - {fileID: -1071846395, guid: 8bbc719ebb5b16d4187a7cc4a02ce385, type: 3}
+  - {fileID: -1349709256, guid: 8bbc719ebb5b16d4187a7cc4a02ce385, type: 3}
+  - {fileID: -620076911, guid: 8bbc719ebb5b16d4187a7cc4a02ce385, type: 3}
+  - {fileID: 867004136, guid: 8bbc719ebb5b16d4187a7cc4a02ce385, type: 3}
+  - {fileID: -804762369, guid: 8bbc719ebb5b16d4187a7cc4a02ce385, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Platform
+  - Obstacle
+  - Toko_Die_4
+  - Toko_Die_5
+  - Toko_Die_0
+  - Toko_Die_1
+  - Toko_Die_2
+  - Toko_Die_3
+  - Toko_Run_1
+  - Toko_Run_0
+  - Toko_Run_3
+  - Toko_Run_2
+  - Toko_Run_5
+  - Toko_Run_4
+  - Toko_Run_7
+  - Toko_Run_6
+  - Platform_Long
+  - Sky
+  - Toko_Jump_0
+  - Toko_Jump_1
+  - Toko_Jump_2
+  - Toko_Jump_3
+  - Toko_Jump_4
+  m_RenderDataMap: {}
+  m_Tag: SpriteAll
+  m_IsVariant: 0
